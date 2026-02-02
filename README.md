@@ -6,6 +6,12 @@
 
 A curated list of Model Context Protocol (MCP) servers for Claude Code and compatible AI development tools. This collection helps developers extend Claude Code's capabilities with specialized integrations.
 
+### Compatible AI Coding Agents
+
+These MCP servers also work with other AI coding agents that support MCP:
+
+- **[AdaL](https://sylph.ai/)** - Self-evolving AI coding agent with full MCP support. Lets models collaborate (Claude, GPT, Gemini), runs locally, learns codebase patterns. Built on [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow). [Docs](https://docs.sylph.ai/) | [Discord](https://discord.com/invite/ezzszrRZvT)
+
 **Last Updated:** 2025-10-28
 
 > This is not a definitive list of all available MCP servers. The ecosystem is rapidly evolving, and new servers are constantly being developed. Many additional MCP servers can be connected to Claude Code through distribution platforms like Smithery and integration tools like Zapier, which allow one MCP to connect to many services.  
