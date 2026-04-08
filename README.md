@@ -35,6 +35,26 @@ A curated list of Model Context Protocol (MCP) servers for Claude Code and compa
 
 Connect Claude Code to external LLMs and AI services for enhanced capabilities.
 
+### ClawRouter
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/BlockRunAI/ClawRouter)
+[![Stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social)](https://github.com/BlockRunAI/ClawRouter)
+[![Last Commit](https://img.shields.io/github/last-commit/BlockRunAI/ClawRouter)](https://github.com/BlockRunAI/ClawRouter)
+
+The LLM router built for autonomous agents. 55+ models, smart routing, no API keys, USDC micropayments via x402. Only router that agents can use independently — route Claude Code requests across OpenAI, Gemini, DeepSeek, Llama, and more with automatic failover and cost optimization.
+
+---
+
+### RunCode
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/BlockRunAI/runcode)
+[![Stars](https://img.shields.io/github/stars/BlockRunAI/runcode?style=social)](https://github.com/BlockRunAI/runcode)
+[![Last Commit](https://img.shields.io/github/last-commit/BlockRunAI/runcode)](https://github.com/BlockRunAI/runcode)
+
+Open-source AI coding agent with 55+ models. Pay per use with USDC. Same capabilities as Claude Code across every major model provider — no API keys, no subscriptions, just connect your wallet and code with any LLM.
+
+---
+
 ### Claude Code Gemini MCP
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/RaiAnsar/claude_code-gemini-mcp)
@@ -368,6 +388,16 @@ A Telegram integration connecting Claude Code sessions to Telegram for AI-powere
 ## Data Science
 
 Tools for data analysis and scientific computing.
+
+### BlockRun MCP
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/BlockRunAI/blockrun-mcp)
+[![Stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=social)](https://github.com/BlockRunAI/blockrun-mcp)
+[![Last Commit](https://img.shields.io/github/last-commit/BlockRunAI/blockrun-mcp)](https://github.com/BlockRunAI/blockrun-mcp)
+
+Real-time data for Claude — markets, research, X/Twitter, crypto. No API keys. Pay per call. One MCP server, one wallet, all sources. Access 41+ LLMs, real-time market data, web search, academic research, and social media intelligence through a single MCP server with USDC micropayments.
+
+---
 
 ### Quick Data MCP
 
