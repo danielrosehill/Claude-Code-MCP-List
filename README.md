@@ -255,6 +255,14 @@ Connect Claude Code to workflow automation platforms.
 
 An MCP server integrating n8n workflow automation with AI assistants like Claude. Bridges n8n's workflow platform with AI models, enabling them to understand and work with n8n nodes effectively. Features 541 n8n nodes with 99% coverage and detailed schemas, 2,646 pre-extracted configurations from popular templates, 2,709 workflow templates with complete metadata, multiple deployment options (npx, Docker, local, Railway), and optional workflow management with API credentials.
 
+### NotFair
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/nowork-studio/NotFair)
+[![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=social)](https://github.com/nowork-studio/NotFair)
+[![Last Commit](https://img.shields.io/github/last-commit/nowork-studio/NotFair)](https://github.com/nowork-studio/NotFair)
+
+An open-source Claude Code plugin providing agent skills for SEO, GEO, Google Ads, and Meta Ads. Connects Claude Code to live advertising and analytics data through the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Skill areas cover [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo) (site analysis, keyword research, meta tags, schema markup, content writing, GEO optimization), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads) (audits, wasted-spend detection, search-term cleanup, keyword and bid management), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) (ROAS analysis, creative fatigue detection, audience overlap). MIT licensed.
+
 ---
 
 ## Voice & Audio
