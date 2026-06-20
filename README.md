@@ -89,6 +89,14 @@ An MCP server that integrates Google's Gemini AI with Claude Code for complex co
 
 Persistent memory and context enhancement for AI coding assistants.
 
+### ax
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Necmttn/ax)
+[![Stars](https://img.shields.io/github/stars/Necmttn/ax?style=social)](https://github.com/Necmttn/ax)
+[![Last Commit](https://img.shields.io/github/last-commit/Necmttn/ax)](https://github.com/Necmttn/ax)
+
+A local-first telemetry and memory graph for AI coding agents. Its read-only MCP server exposes recall, session drill-down, cost analytics, skill and hook usage, dispatches, and workflow evidence across Claude Code, Codex, Pi, OpenCode, and Cursor histories.
+
 ### Byterover Cipher
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/campfirein/cipher)
