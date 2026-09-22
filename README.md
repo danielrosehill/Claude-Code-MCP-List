@@ -241,6 +241,14 @@ An MCP server integrating Chrome's debugging capabilities with Claude for AI-ass
 
 A demonstration project for the `claude-test` CLI framework showcasing intelligent automation testing with Claude Code and Playwright MCP. Features natural language testing where Claude interprets plain language test steps, dynamic element targeting where Playwright MCP automatically assigns unique identifiers, multi-environment support, session persistence for 80-95% performance improvement, reusable step libraries, smart test reporting with HTML/JSON formats, and Cursor IDE integration.
 
+### Scalebrowser MCP
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/blackdiamond-labs/scalebrowser-mcp)
+[![Stars](https://img.shields.io/github/stars/blackdiamond-labs/scalebrowser-mcp?style=social)](https://github.com/blackdiamond-labs/scalebrowser-mcp)
+[![Last Commit](https://img.shields.io/github/last-commit/blackdiamond-labs/scalebrowser-mcp)](https://github.com/blackdiamond-labs/scalebrowser-mcp)
+
+Scalebrowser is self-hosted browser infrastructure for AI agents. It gives each agent a persistent, isolated identity, keeps logins and passkeys intact, handles captchas and verification, and runs on hardware you control.
+
 ---
 
 ## Workflow Automation
