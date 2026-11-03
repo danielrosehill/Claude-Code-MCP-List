@@ -4,6 +4,8 @@
 [![Claude Code Projects Index](https://img.shields.io/badge/Claude_Code-Projects_Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
 [![Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Start-Here)
 
+**Write-up:** [Claude Code plugins for non-coding work: homelab, data, media and admin](https://blog.danielrosehill.com/posts/claude-code-plugins-non-coding-workflows-xlkdop/)
+
 A curated list of Model Context Protocol (MCP) servers for Claude Code and compatible AI development tools. This collection helps developers extend Claude Code's capabilities with specialized integrations.
 
 **Last Updated:** 2025-10-28
