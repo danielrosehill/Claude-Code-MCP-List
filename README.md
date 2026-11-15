@@ -381,6 +381,15 @@ An MCP server implementation focused on data analytics capabilities for AI agent
 
 ---
 
+### No Stairs Please MCP
+
+[![Website](https://img.shields.io/badge/Website-nostairsplease.com-blue)](https://nostairsplease.com/)
+[![MCP Endpoint](https://img.shields.io/badge/MCP-Streamable_HTTP-green)](https://nostairsplease.com/mcp)
+
+Remote Streamable HTTP MCP server for US & BC independent live-music venue discovery, booking contacts, capacity filtering, and tour routing across all 50 US states, DC, and British Columbia. Supports OAuth 2.1 with Dynamic Client Registration and exposes a server card at `https://nostairsplease.com/.well-known/mcp/server-card.json`.
+
+---
+
 ## Resources & Discovery
 
 Resource lists and tools for discovering MCP servers and Claude Code plugins.
