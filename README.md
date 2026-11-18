@@ -207,6 +207,22 @@ A coding assistant MCP for Claude Desktop transforming Claude into a pair progra
 
 A Tauri plugin and MCP server enabling AI agents to debug and interact with Tauri applications. Features window interaction including screenshot capture with configurable quality and HTML DOM access, window control for position/size/focus management, user input simulation with mouse clicks/movements and programmatic text input, JavaScript execution within application context, localStorage operations, and connectivity verification. Supports both IPC and TCP socket modes with Rust-based socket server and TypeScript client.
 
+### MCP Probe Kit
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/mybolide/mcp-probe-kit)
+[![Stars](https://img.shields.io/github/stars/mybolide/mcp-probe-kit?style=social)](https://github.com/mybolide/mcp-probe-kit)
+[![Last Commit](https://img.shields.io/github/last-commit/mybolide/mcp-probe-kit)](https://github.com/mybolide/mcp-probe-kit)
+
+A self-test and diagnostics toolkit for MCP servers, published on npm as `mcp-probe-kit` and in the official MCP Registry. Connects to a server, enumerates every tool, resource and prompt, exercises them, and reports health, latency and schema drift between runs. Read-only against the target server, so it can be pointed at someone else's server without side effects.
+
+### Coding Tools MCP
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/mybolide/coding-tools-mcp)
+[![Stars](https://img.shields.io/github/stars/mybolide/coding-tools-mcp?style=social)](https://github.com/mybolide/coding-tools-mcp)
+[![Last Commit](https://img.shields.io/github/last-commit/mybolide/coding-tools-mcp)](https://github.com/mybolide/coding-tools-mcp)
+
+A Rust + Tauri 2 desktop MCP server that gives coding agents project scaffolding, code search, dependency inspection and build insight behind a single local stdio interface instead of four separate servers. Apache-2.0, published in the official MCP Registry as `io.github.mybolide/coding-tools-mcp`.
+
 ---
 
 ## Agent Orchestration
